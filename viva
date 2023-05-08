@@ -1,0 +1,27 @@
+Android is a popular open-source operating system (OS) for mobile devices such as smartphones, tablets, and smartwatches. It is based on the Linux kernel and developed by Google and the Open Handset Alliance (OHA).
+Android was co-founded by Andy Rubin, Rich Miner, Nick Sears, and Chris White in 2003. Google acquired Android in 2005, and Rubin led the development of Android until 2013.
+The Android application architecture consists of four main components:
+Activities: responsible for managing the user interface and handling user interactions
+Services: perform background tasks without a user interface
+Broadcast receivers: receive and respond to system-wide broadcast announcements
+Content providers: manage access to shared data such as contacts or media files.
+Android versions are named after sweet treats and desserts in alphabetical order. Some of the code names include Cupcake, Donut, Eclair, Gingerbread, KitKat, Lollipop, Marshmallow, Nougat, Oreo, Pie, and Android 10, 11, and 12.
+Some advantages of Android include its open-source nature, customization options, large app ecosystem, and compatibility with a wide range of devices.
+Android supports various programming languages, including Java, Kotlin, C++, and Python, among others.
+The core building blocks of Android are Activities, Services, Broadcast Receivers, and Content Providers.
+In Android, an Activity is a single, focused task that a user can interact with.
+The lifecycle methods of an Android activity include onCreate(), onStart(), onResume(), onPause(), onStop(), onDestroy(), and onRestart().
+An Intent is a messaging object that is used to request an action from another app component, such as an Activity, Service, or Broadcast Receiver.
+View elements in an Android program are identified using a unique ID, which is specified in the XML layout file or programmatically in the Java/Kotlin code.
+A Toast is a small pop-up message that appears on the screen to show a short-lived message, typically used to notify the user of a successful or failed operation.
+Some important folders in Android include the src folder for source code, the res folder for resources, the gen folder for generated code, and the AndroidManifest.xml file for app configuration.
+A Bundle is a container that holds a set of key-value pairs, which can be used to pass data between activities or fragments in an Android app.
+An application resource file contains non-code resources such as images, layouts, strings, and colors that are used to create the app's user interface and functionality.
+An implicit intent is used to request an action from another app component without specifying the component's name, while the system resolves which component should handle the intent based on the intent's information.
+An explicit intent specifies the component's name that should handle the intent, typically used to launch a specific activity within an app.
+To call another activity in Android, you can create an intent and specify the activity's name, then call startActivity() to launch the new activity.
+A Service is a component that performs long-running operations in the background without a user interface, typically used for tasks such as playing music or downloading data.
+Android uses SQLite as its default database.
+A Fragment is a reusable UI component that can be combined with other fragments to create a multi-pane user interface, typically used in tablet or larger screen devices.
+ADB (Android Debug Bridge) is a command-line tool that allows developers to communicate with an Android device or emulator for debugging and testing purposes.
+The Google Android SDK (Software Development Kit) is a set of tools and APIs that developers use to create Android
