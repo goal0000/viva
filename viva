@@ -1,3 +1,34 @@
+1) What is Android?
+2) Who is the founder of Android?
+3) Explain the Android application Architecture.
+4) What are the code names of android?
+5) What are the advantages of Android?
+6) Does android support other languages than java?
+7) What are the core building blocks of android?
+8) What is activity in Android?
+9) What are the life cycle methods of android activity?
+10) What is intent?
+11) How are view elements identified in the android program?
+12) Define Android toast.
+13) Give a list of impotent folders in android
+14) Explain the use of &#39;bundle&#39; in android?
+15) What is an application resource file?
+16) What is the implicit intent in android?
+17) What is explicit intent in android?
+18) How to call another activity in android?
+19) What is service in android?
+20) What is the name of the database used in android?
+21) What is fragment?
+22) What is ADB?
+23) What is the Google Android SDK?
+24) What is an APK format?
+25) Which language does Android support to develop an application?
+26) What is ADT in Android?
+27) What is View Group in Android?
+28) What is the Adapter in Android?
+29) What is nine-patch images tool in Android?
+30) What are the basic tools used to develop an Android app?
+
 Android is a popular open-source operating system (OS) for mobile devices such as smartphones, tablets, and smartwatches. It is based on the Linux kernel and developed by Google and the Open Handset Alliance (OHA).
 Android was co-founded by Andy Rubin, Rich Miner, Nick Sears, and Chris White in 2003. Google acquired Android in 2005, and Rubin led the development of Android until 2013.
 The Android application architecture consists of four main components:
